@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1228e81b-579b-4860-bd10-4bbcd6e85c7e" name="Default Changelist" comment="" />
+    <list default="true" id="1228e81b-579b-4860-bd10-4bbcd6e85c7e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webkeys.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/1363bde08eead9707462833f152cbd7e.key" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/admin/custom_overall.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+              <caret line="103" selection-start-line="103" selection-end-line="103" />
             </state>
           </provider>
         </entry>
@@ -72,8 +78,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/answer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="108" column="79" selection-start-line="108" selection-start-column="79" selection-end-line="108" selection-end-column="79" />
+            <state relative-caret-position="385">
+              <caret line="106" column="78" selection-start-line="106" selection-start-column="78" selection-end-line="106" selection-end-column="78" />
             </state>
           </provider>
         </entry>
@@ -82,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/admin/custom_scores.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1659">
-              <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
+              <caret line="118" selection-start-line="118" selection-end-line="118" />
             </state>
           </provider>
         </entry>
@@ -136,10 +142,12 @@
       <replace>c_question.php</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/scores.php" />
         <option value="$PROJECT_DIR$/final.php" />
         <option value="$PROJECT_DIR$/practice_test.php" />
         <option value="$PROJECT_DIR$/custom_type.php" />
@@ -190,6 +198,7 @@
         <option value="$PROJECT_DIR$/admin/custom_overall.php" />
         <option value="$PROJECT_DIR$/custom_score.php" />
         <option value="$PROJECT_DIR$/answer.php" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -201,6 +210,7 @@
     <option name="width" value="672" />
     <option name="height" value="708" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -216,22 +226,7 @@
             <path>
               <item name="obidoni" type="b2602c69:ProjectViewProjectNode" />
               <item name="obidoni" type="462c0819:PsiDirectoryNode" />
-              <item name="css1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="obidoni" type="b2602c69:ProjectViewProjectNode" />
-              <item name="obidoni" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="obidoni" type="b2602c69:ProjectViewProjectNode" />
-              <item name="obidoni" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="obidoni" type="b2602c69:ProjectViewProjectNode" />
-              <item name="obidoni" type="462c0819:PsiDirectoryNode" />
-              <item name="webkeys" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -336,18 +331,17 @@
       <workItem from="1547191954749" duration="574000" />
       <workItem from="1547244160114" duration="2607000" />
       <workItem from="1547322439541" duration="574000" />
-      <workItem from="1547454132910" duration="17348000" />
+      <workItem from="1547454132910" duration="19320000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="278196000" />
+    <option name="totallyTimeSpent" value="280168000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22205438" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22205438" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -359,8 +353,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.2841782" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2738654" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -372,13 +366,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/admin/p_scores.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2898">
-          <caret line="126" column="525" selection-start-line="126" selection-start-column="415" selection-end-line="126" selection-end-column="525" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
@@ -662,7 +649,7 @@
     <entry file="file://$PROJECT_DIR$/admin/custom_scores.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1659">
-          <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
         </state>
       </provider>
     </entry>
@@ -690,7 +677,7 @@
     <entry file="file://$PROJECT_DIR$/admin/custom_overall.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
         </state>
       </provider>
     </entry>
@@ -720,10 +707,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="138">
+            <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/answer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="108" column="79" selection-start-line="108" selection-start-column="79" selection-end-line="108" selection-end-column="79" />
+        <state relative-caret-position="385">
+          <caret line="106" column="78" selection-start-line="106" selection-start-column="78" selection-end-line="106" selection-end-column="78" />
         </state>
       </provider>
     </entry>

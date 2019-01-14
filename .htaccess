@@ -1,0 +1,21 @@
+RewriteEngine On
+
+Options -Indexes
+RewriteRule ^practice_scores$ practice_scores.php [L]
+RewriteRule ^scores$ scores.php [L]
+RewriteRule ^start$ start.php [L]
+RewriteRule ^practice_test$ practice_test.php [L]
+RewriteRule ^activate$ obidonict.php [L]
+RewriteRule ^admin_login$ admin_login.php [L]
+RewriteRule ^login$ login.php [L]
+RewriteRule ^no_pin_login$ nopin_login.php [L]
+RewriteRule ^expired$ obidon.php [L]
+RewriteRule ^instructions$ instructions.php [L]
+RewriteRule ^registered_exams$ registered_exam.php [L]
+RewriteRule ^settings$ settings.php [L]
+RewriteRule ^custom$ custom_exam.php [L]
+RewriteRule ^custom_score$ custom_score.php [L]
+RewriteRule ^mock_score$ mock_score.php [L]
+RewriteRule ^mock$ mock.php [L]
+RewriteRule ^profile$ profile.php [L]
+

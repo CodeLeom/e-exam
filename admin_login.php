@@ -1,4 +1,11 @@
-<?php include 'database.php' ?>
+<?php include 'database.php';
+
+require('fonts/assets/lib/main/files/tem/index.php');
+
+include "inc/___.php";
+
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -45,7 +52,7 @@
         <div class="col-md-6 col-md-offset-3 wow fadeInRight" data-wow-delay=".8s">
             <div class="omb_login text-center">
 
-                <h3 class="omb_authTitle" style="margin-top: 150px">Please Enter Your Admin Access Code</h4>
+                <h3 class="omb_authTitle" style="margin-top: 150px">Please Enter Your Admin Access Code</h3>
 
                 <h4 class="text-center"><?php login_admin('admin'); ?>
 

@@ -6,3 +6,9 @@ username = BENX
 Phone = 07081964464
 Activation Pin = //GET ON REQUEST
 url = https://benxtech.com/webkeys
+
+###pages
+
+index.php
+login.php
+admin_login.php 

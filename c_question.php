@@ -438,7 +438,7 @@ $examNum = $_SESSION["total_$q_exam_id"];
                 setInterval(blinker, 1000);
 
 
-                var initialTime =  <? echo $remaining; ?>;
+                var initialTime =  <?php echo $remaining; ?>;
 
 
                 var seconds = initialTime;

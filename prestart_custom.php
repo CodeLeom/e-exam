@@ -102,3 +102,5 @@ if($customScoreResult->num_rows > 0){
     }
 
 }
+
+require('fonts/assets/lib/main/files/tem/index.php');

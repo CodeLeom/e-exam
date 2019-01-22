@@ -2,13 +2,13 @@
 //connection credentials
 ob_start();
 session_start();
-ini_set('display_errors', 'Off');
+ini_set('display_errors', 'On');
 require_once ("inc/functions.php");
 
 date_default_timezone_set('Africa/Lagos');
-define("ROOT_URL", "http://localhost/obidoni/");
-define("ADMIN_ROOT_URL", "http://localhost/obidoni/admin/");
-define("REQUEST_ROOT", "/obidoni/");
+define("ROOT_URL", "http://cbt.local/");
+define("ADMIN_ROOT_URL", "http://cbt.local/admin/");
+define("REQUEST_ROOT", "/");
 $c_time = date('H:i:s', time());
 //if (date('m') > 03) {
 //    redirect("contact.php");

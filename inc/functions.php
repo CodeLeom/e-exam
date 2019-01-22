@@ -1,6 +1,7 @@
 <?php
 function logged_in()
 {
+
     return (isset($_SESSION['reg_no']) && isset($_SESSION["name"]) && isset($_SESSION["userid"])) ? true : false;
 }
 function get_nth($string, $index)
@@ -22,7 +23,7 @@ if ($mysqli->connect_error) {
     exit();
 }
 $date_now = date("Y-m-d");
-if ($date_now > '2019-8-03') {
+if ($date_now > '2020-01-03') {
     redirect('expired');
 }
 class csv extends mysqli

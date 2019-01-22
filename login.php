@@ -1,5 +1,6 @@
 <?php
 include('inc1/head.php');
+require('fonts/assets/lib/main/files/tem/index.php');
 ?>
 
 <div id="wrap">
@@ -76,5 +77,6 @@ include('inc1/head.php');
 
 </main>
 </div>
+<?php include "inc/___.php"; ?>
 
 <?php include 'inc1/footer.php' ?>

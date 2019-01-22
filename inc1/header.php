@@ -2,7 +2,7 @@
     <?php
     $c_exam_id = $_SESSION['current_exam_id'];
 
-//    die('hell');
+
 
     $date = date('h:i:s', time());
 

@@ -6,7 +6,7 @@
 $year = date('Y', time());
 
 if(!logged_in()){
-    redirect('login.php');
+    redirect('login');
 }
 
 $reg_no = $_SESSION['reg_no'];

@@ -379,7 +379,7 @@ $totalQus = $results->num_rows;
                     setInterval(blinker, 1000);
 
 
-                    var initialTime =  <? echo $remaining; ?>;
+                    var initialTime =  <?php echo $remaining; ?>;
 
 
                     var seconds = initialTime;

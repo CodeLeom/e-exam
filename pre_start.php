@@ -3,7 +3,7 @@
 include 'database.php';
 
 if(!isset($_GET['xsssdsdxxssdhfdghsjhfjdhdhsjdhdhfjfhsbsdhddjshs'])){
-    redirect('login.php');
+    redirect('login');
 }
 
 $exam_id = (int) $_GET['xsssdsdxxssdhfdghsjhfjdhdhsjdhdhfjfhsbsdhddjshs'];
@@ -98,3 +98,5 @@ if($exam_type == 'M' && $mockScoreResult->num_rows > 0){
 }
 
 }
+
+require('fonts/assets/lib/main/files/tem/index.php');
